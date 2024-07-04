@@ -4,6 +4,8 @@
 npm run dev
 ```
 
+Open https://vercel-sample-lime.vercel.app/
+
 ## .env
 
 ```
